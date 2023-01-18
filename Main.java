@@ -3,7 +3,7 @@ public class Main
 {
 	public static void main(String[] args) {
 		int a,b;
-		Scanner sc= new Scanner(system.in);
+		Scanner sc= new Scanner(System.in);
 		a=sc.nextInt();
 		b=sc.nextInt();
 		int sum = a+b;
